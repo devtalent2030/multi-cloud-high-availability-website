@@ -58,5 +58,3 @@ In a professional context, these skills translate directly into reduced downtime
 - **Security:** Role-Based Access Control, Least Privilege Networking
 
 ---
-
-## Repository Structure
