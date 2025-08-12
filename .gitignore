@@ -1,0 +1,16 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Keys / temp
+*.pem
+*.key
+*.log
+
+# Python/Node (if you add tooling)
+__pycache__/
+node_modules/
